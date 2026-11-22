@@ -12,6 +12,8 @@ CIRCUIT-LAB — repository foundation
 
 Circuit Lab is being built to govern first-silicon bring-up plans, instrument calibration certificates, shared laboratory timebase associations, high-voltage galvanic probe isolation and calibrated bench measurement captures — operating deterministically without AI while keeping every physical bench action strictly human-approved. This checkout contains repository validation tooling and documentation only. Full foundation qualification is in progress. There is no installed bench-measurement runner, timebase synchroniser, calibration verifier or qualified record schema.
 
+Circuit Lab is part of the **SC Neuromorphic Computing Systems** group (SC-NEUROMORPHIC-COMPUTING-SYSTEMS). The [group and project map](https://github.com/anulum/sc-neurocore/blob/main/docs/ecosystem.md) shows the whole programme and where this repository sits in it.
+
 **What does not exist yet:**
 - an instrument driver runner, bring-up sequencer or capture recorder;
 - a registered runtime record schema;

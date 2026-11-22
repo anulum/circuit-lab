@@ -3,7 +3,7 @@
   "claims": [],
   "domain_runtime_dependencies": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "owner_group": "SC-NEUROMORPHIC-COMPUTING-SYSTEMS",
   "planned_owned_schema_ids": [
     "circuit_lab.measurement_association.v1",
@@ -12,6 +12,7 @@
     "circuit_lab.measurement_capture.v1",
     "circuit_lab.calibration_certificate.v1"
   ],
+  "public_remote": "https://github.com/anulum/circuit-lab",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-LAB",
   "tooling_python": {

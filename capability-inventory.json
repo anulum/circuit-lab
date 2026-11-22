@@ -2,11 +2,11 @@
   "capabilities": [],
   "claims": [],
   "evidence_maturity": "architecture_only",
-  "lifecycle": "local_scaffold",
+  "lifecycle": "public_repository",
   "qualified_owned_schema_ids": [],
   "repository_name": "CIRCUIT-LAB",
   "source_metadata": {
     "path": "repository-domain.json",
-    "sha256": "f7da0d73ff06ff10cba3bea0bb7ab1cc0405686fefa2880d082448c42735b036"
+    "sha256": "4a1fbaca3a428db45e88473c68b8ab5bd70e74d300c75890210297c018292601"
   }
 }
