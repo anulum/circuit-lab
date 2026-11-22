@@ -1,0 +1,19 @@
+{
+  "creators": [
+    {
+      "affiliation": "ANULUM",
+      "name": "Šotek, Miroslav",
+      "orcid": "0009-0009-3560-0851"
+    }
+  ],
+  "description": "Architecture-only repository validation tooling and design for human-approved silicon bring-up and calibrated bench metrology: device-under-test associations, shared timebase alignment, galvanic probe isolation, instrument calibration certificates and provenance-bound measurement captures. No bench-measurement runner, timebase synchroniser, calibration verifier or qualified record schema is released.",
+  "keywords": [
+    "silicon bring-up",
+    "calibrated bench metrology",
+    "timebase synchronisation",
+    "evidence provenance"
+  ],
+  "license": "AGPL-3.0-or-later",
+  "title": "Circuit Lab",
+  "upload_type": "software"
+}
